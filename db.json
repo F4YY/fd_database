@@ -2,13 +2,13 @@
       "Testimonials": [
         {
           "id": 1,
-          "name": "riki wendri",
-          "prof_pic": "ayah.jpg",
-          "email": "rikiwendri@gmail.com",
-          "menu_pic": "Dalg_ChocSilv.jpg",
-          "menu_name": "Dalgona Choco Silverqueen",
-          "star_rating": "5",
-          "review": "it's very delicious, want it more and more"
+          "name": "fayad",
+          "prof_pic": "fayad.jpg",
+          "email": "fayad@gmail.com",
+          "menu_pic": "ReguIced_Taro.jpg",
+          "menu_name": "Regular Iced Taro",
+          "star_rating": "4",
+          "review": "iya enaakk, ad mw lagi yah mw lagii dong.."
         },
         {
           "id": 2,
@@ -17,18 +17,18 @@
           "email": "bundafay@bunbun.com",
           "menu_pic": "mienyemek_baksoseafood.jpg",
           "menu_name": "Mie Nyemek Bakso Seafood",
-          "star_rating": "4",
-          "review": "mumtaz..marra mumtaz..raos pisan euey"
+          "star_rating": "5",
+          "review": "mumtaz..marra mumtaz..ini sih definisi wuenaakkk.."
         },
         {
           "id": 3,
-          "name": "fayad",
-          "prof_pic": "fayad.jpg",
-          "email": "fayad@gmail.com",
-          "menu_pic": "ReguHot_Taro.jpg",
-          "menu_name": "Regular Iced Taro",
+          "name": "riki wendri",
+          "prof_pic": "ayah.jpg",
+          "email": "rikiwendri@gmail.com",
+          "menu_pic": "Dalg_ChocSilv.jpg",
+          "menu_name": "Dalgona Choco Silverqueen",
           "star_rating": "5",
-          "review": "iya enaakk, ad mw lagi yah mw lagii dong.."
+          "review": "it's very delicious, want it more and more"
         }
       ]
     }
