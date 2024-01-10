@@ -6,6 +6,7 @@
           "prof_pic": "fayad.jpg",
           "email": "fayad@gmail.com",
           "menu_pic": "ReguIced_Taro.jpg",
+          "menu_category: "RegularIced",
           "menu_name": "Taro Iced",
           "star_rating": "4",
           "review": "iya enaakk, ad mw lagi yah mw lagii dong.."
@@ -16,6 +17,7 @@
           "prof_pic": "bunda.jpg",
           "email": "bundafay@bunbun.com",
           "menu_pic": "mienyemek_baksoseafood.jpg",
+          "menu_category: "MieNyemek",
           "menu_name": "Mie Nyemek Bakso Seafood",
           "star_rating": "5",
           "review": "mumtaz..marra mumtaz..ini sih definisi wuenaakkk.."
@@ -26,6 +28,7 @@
           "prof_pic": "ayah.jpg",
           "email": "rikiwendri@gmail.com",
           "menu_pic": "Dalg_ChocSilv.jpg",
+          "menu_category: "DalgonaIced",
           "menu_name": "Dalgona Choco Silverqueen",
           "star_rating": "5",
           "review": "it's very delicious, want it more and more"
