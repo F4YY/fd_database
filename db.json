@@ -32,6 +32,17 @@
           "menu_name": "Dalgona Choco Silverqueen",
           "star_rating": "5",
           "review": "it's very delicious, want it more and more"
+        },
+        {
+          "id": 4,
+          "name": "Twin brothers",
+          "prof_pic": "Twinbros.jpeg",
+          "email": "twinbros@tahoo.com",
+          "menu_pic": "DalCro_Greentea.jpg",
+          "menu_category": "Simple DalCro",
+          "menu_name": "DalCro Green Tea",
+          "star_rating": "4",
+          "review": "Cucok banget menu paketnya niyh.. terbaaiiikkkk"
         }
       ]
     }
