@@ -1,3 +1,7 @@
-# render.yaml
-use:
-  - node:20.9.0
+env:
+  - key: NODE_VERSION
+    value: 20.9.0
+
+buildCommand: |
+  yarn install
+  yarn build
