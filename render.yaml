@@ -1,7 +1,0 @@
-env:
-  - key: NODE_VERSION
-    value: 20.9.0
-
-buildCommand: |
-  yarn install
-  yarn build
