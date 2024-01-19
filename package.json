@@ -1,7 +1,6 @@
 {
   "name": "fd_database",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -13,7 +12,8 @@
   "dependencies": {
     "chokidar": "^3.5.3",
     "cors": "^2.8.5",
-    "json-server": "^1.0.0-alpha.21",
-    "json-serve": "^0.1.0"
-  }
+    "json-serve": "^0.1.0",
+    "json-server": "^1.0.0-alpha.21"
+  },
+  "description": ""
 }
