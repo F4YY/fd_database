@@ -2,33 +2,58 @@
       "Testimonials": [
         {
           "id": 1,
-          "name": "riki",
+          "name": "fayad",
+          "prof_pic": "fayad.jpg",
+          "email": "fayad@gmail.com",
+          "menu_pic": "ReguIced_Taro.jpg",
+          "menu_category": "Regular Iced",
+          "menu_name": "Taro Iced",
+          "star_rating": "4",
+          "review": "iya enaakk, ad mw lagi yah mw lagii dong.."
+        },
+        {
+          "id": 2,
+          "name": "bundo",
+          "prof_pic": "bunda.jpg",
+          "email": "bundafay@bunbun.com",
+          "menu_pic": "mienyemek_baksoseafood.jpg",
+          "menu_category": "Mie Nyemek",
+          "menu_name": "Mie Nyemek Bakso Seafood",
+          "star_rating": "5",
+          "review": "mumtaz..marra mumtaz..ini sih definisi wuenaakkk.."
+        },
+        {
+          "id": 3,
+          "name": "riki wendri",
           "prof_pic": "ayah.jpg",
           "email": "rikiwendri@gmail.com",
           "menu_pic": "Dalg_ChocSilv.jpg",
+          "menu_category": "Dalgona Iced",
           "menu_name": "Dalgona Choco Silverqueen",
           "star_rating": "5",
           "review": "it's very delicious, want it more and more"
         },
         {
-          "id": 2,
-          "name": "bunda",
-          "prof_pic": "bunda.jpg",
-          "email": "bundafay@bunbun.com",
-          "menu_pic": "mienyemek_baksoseafood.jpg",
-          "menu_name": "Mie Nyemek Bakso Seafood",
+          "id": 4,
+          "name": "Asput",
+          "prof_pic": "asput.jpeg",
+          "email": "asput@tahoo.com",
+          "menu_pic": "DalCro_Greentea.jpg",
+          "menu_category": "Simple DalCro",
+          "menu_name": "DalCro Green Tea",
           "star_rating": "4",
-          "review": "mumtaz..marra mumtaz..raos pisan"
-        },
-        {
-          "id": 3,
-          "name": "fayad",
-          "prof_pic": "fayad.jpg",
-          "email": "fayad@gmail.com",
-          "menu_pic": "ReguHot_Taro.jpg",
-          "menu_name": "Regular Iced Taro",
-          "star_rating": "5",
-          "review": "iya enaakk, ad mw lagi mw lagii.."
+          "review": "Cucok banget menu paketnya niyh.. terbaaiiikkkk ♥"
         }
-      ]
-    }
+      ],
+    "Reservation_guest": [
+      {
+         "Name": "Riki",
+         "email": "rikiwendri@gmail.com",
+         "date": "19-01-2024",
+         "time": "17:00",
+         "no_of_guests": "1 - 2 persons",
+         "occasion": "Birthday",
+         "notes": "find me a cozy place",
+      }
+    ]
+}
