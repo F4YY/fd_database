@@ -44,7 +44,7 @@
           "star_rating": "4",
           "review": "Cucok banget menu paketnya niyh.. terbaaiiikkkk ♥"
         }
-      ]
+      ],
     "Reservation_guest": [
       {
          "Name": "Riki",
@@ -55,4 +55,5 @@
          "occasion": "Birthday",
          "notes": "find me a cozy place",
       }
+    ]
 }
