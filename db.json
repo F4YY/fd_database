@@ -44,5 +44,16 @@
       "star_rating": "4",
       "review": "Cucok banget menu paketnya niyh.. terbaaiiikkkk ♥"
     }
+  ],
+  "Reservation_guest": [
+    {
+      "Name": "Riki",
+      "email": "rikiwendri@gmail.com",
+      "date": "19-01-2024",
+      "time": "17:00",
+      "no_of_guests": "1 - 2 persons",
+      "occasion": "Birthday",
+      "notes": "find me a cozy place"
+    }
   ]
 }
