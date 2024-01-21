@@ -1,2 +1,0 @@
-buildCommand: "npm install && node index.js"
-nodeVersion: "21.6.0"
