@@ -48,7 +48,7 @@
   "Reservation_guest": [
     {
       "id": 1,
-      "Name": "Riki W",
+      "name": "Riki W",
       "email": "rikiwendri@gmail.com",
       "date": "19-01-2024",
       "time": "17:00",
@@ -58,7 +58,7 @@
     },
     {
       "id": 2,
-      "Name": "Fayad",
+      "name": "Fayad",
       "email": "fayad@gmail.com",
       "date": "24-01-2024",
       "time": "19:00",
